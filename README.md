@@ -45,7 +45,7 @@ _Follow instructions from pip website_
 
 
 ```
-$ git clone https://github.com/tesla1618/RedShiftIndex.git
+$ git clone https://github.com/remesis/RedShiftIndex.git
 ```
 Output:
 ```
